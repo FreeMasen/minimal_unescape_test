@@ -1,0 +1,8 @@
+[package]
+name = "minimal_unescape_test"
+version = "0.1.0"
+authors = ["rmasen"]
+edition = "2018"
+
+[dependencies]
+unescape = "0.1"
